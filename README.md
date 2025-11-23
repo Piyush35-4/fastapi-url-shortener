@@ -17,3 +17,11 @@ and redirects users to the original URL.
 ---
 
 ## 📂 Project Structure
+fastapi-url-shortener/
+│ ├── main.py
+│ ├── database.py
+│ ├── models.py
+│ ├── schemas.py
+│ ├── utils.py
+│── requirements.txt
+│── README.md
